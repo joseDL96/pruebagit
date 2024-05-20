@@ -7,9 +7,7 @@ public class CCuenta {
  private String cuenta;
  private double saldo;
  private double tipoInterés;
-public CCuenta()
- {
- }
+
  public CCuenta(String nom, String cue, double sal, double tipo)
  {
  nombre =nom;
